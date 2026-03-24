@@ -1,6 +1,6 @@
 # Data Structure Assignment
 
-**Name:** G.pranathi,
+**Name:** G.Pranathi,
 **Roll Number:** 11,
 **Course Name:** Introduction to Data Structure  
 
